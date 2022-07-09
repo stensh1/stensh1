@@ -12,10 +12,13 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.codewars.com/users/sal123t">
-    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="Codewars Badge"/>
+  </a>
+  <a href="https://leetcode.com/sal123t/">
+    <img src="https://img.shields.io/badge/leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="mailto:ivan.orshk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=red" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
 

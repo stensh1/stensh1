@@ -45,7 +45,7 @@ I'm a junior Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteab
 
 - :briefcase: I want to find a job as a developer in the Go language.
 
-- :calling: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-sal123t-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stensh1)
+- :calling: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-stensh1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stensh1)
 
 ---
 

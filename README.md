@@ -37,9 +37,7 @@
 
 I'm a junior Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30"> from Russia, Saint-Petersburg.
 
-- :floppy_disk: I’m studying at the university at the Department of Information Security.
-
-- :printer: I work at YIT Saint-Petersburg as an administrative department specialist.
+- :floppy_disk: I’m studying at the university at the Department of Computer Engineering.
 
 - :keyboard: I love code and code loves me.
 
@@ -47,7 +45,7 @@ I'm a junior Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteab
 
 - :briefcase: I want to find a job as a developer in the Go language.
 
-- :calling: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-sal123t-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sal123t)
+- :calling: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-sal123t-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stensh1)
 
 ---
 

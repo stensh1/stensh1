@@ -33,7 +33,7 @@
   </h1>
 </div>
 
-### :desktop_computer: AboutMe :
+### :desktop_computer: About Me :
 
 I'm a junior Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30"> from Russia, Saint-Petersburg.
 

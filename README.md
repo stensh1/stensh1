@@ -11,12 +11,6 @@
   <a href="https://t.me/sal123t">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/sal123t">
-    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="Codewars Badge"/>
-  </a>
-  <a href="https://leetcode.com/sal123t/">
-    <img src="https://img.shields.io/badge/leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
   <a href="mailto:ivan.orshk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
@@ -33,23 +27,15 @@
   </h1>
 </div>
 
-### :desktop_computer: About Me :
+### About :
 
-I'm a junior Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30">, Russia, Saint-Petersburg.
 
-- :floppy_disk: I’m studying at the university at the Department of Computer Engineering.
-
-- :keyboard: I love code and code loves me.
-
-- :electric_plug: In my free time, I solve tasks on codewars, take courses in development and backend on Go, learn English or come up with new interesting projects.
-
-- :briefcase: I want to find a job as a developer in the Go language.
-
-- :calling: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-stensh1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stensh1)
+- :floppy_disk: Studying at the university at the Department of Computer Engineering.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;

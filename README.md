@@ -53,5 +53,5 @@ Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gi
 
 ---
 
-### :scroll: Certificates and diplomas : 
+### Certificates and diplomas : 
 - :page_facing_up: <a href="https://stepik.org/cert/1559110">Programming in Golang</a>

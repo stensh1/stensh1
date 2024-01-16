@@ -29,7 +29,7 @@
 
 ### About :
 
-Go developer <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30">, Russia, Saint-Petersburg.
+Student, <img src="https://media.giphy.com/media/VFHpBIMdOWteabwcdb/giphy.gif" width="30">, Russia, Saint-Petersburg.
 
 - :floppy_disk: Studying at the university at the Department of Computer Engineering.
 
